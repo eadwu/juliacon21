@@ -1,0 +1,3 @@
+[submodule "juliacon21-gpu_workshop"]
+	path = juliacon21-gpu_workshop
+	url = https://github.com/maleadt/juliacon21-gpu_workshop.git
