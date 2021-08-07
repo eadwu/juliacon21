@@ -4,3 +4,6 @@
 [submodule "JuliaCon2021-DataFrames-Tutorial"]
 	path = JuliaCon2021-DataFrames-Tutorial
 	url = https://github.com/bkamins/JuliaCon2021-DataFrames-Tutorial.git
+[submodule "JuliaCon2021-StatisticsWithJuliaFromTheGroundUp"]
+	path = JuliaCon2021-StatisticsWithJuliaFromTheGroundUp
+	url = https://github.com/yoninazarathy/JuliaCon2021-StatisticsWithJuliaFromTheGroundUp.git
