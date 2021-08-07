@@ -1,3 +1,6 @@
 [submodule "juliacon21-gpu_workshop"]
 	path = juliacon21-gpu_workshop
 	url = https://github.com/maleadt/juliacon21-gpu_workshop.git
+[submodule "JuliaCon2021-DataFrames-Tutorial"]
+	path = JuliaCon2021-DataFrames-Tutorial
+	url = https://github.com/bkamins/JuliaCon2021-DataFrames-Tutorial.git
