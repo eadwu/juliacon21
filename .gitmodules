@@ -16,3 +16,6 @@
 [submodule "juliacon2021-workshop-pkgdev"]
 	path = juliacon2021-workshop-pkgdev
 	url = https://github.com/aviatesk/juliacon2021-workshop-pkgdev.git
+[submodule "MarineEcosystemsJuliaCon2021.jl"]
+	path = MarineEcosystemsJuliaCon2021.jl
+	url = https://github.com/JuliaOcean/MarineEcosystemsJuliaCon2021.jl.git
