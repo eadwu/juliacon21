@@ -7,3 +7,6 @@
 [submodule "JuliaCon2021-StatisticsWithJuliaFromTheGroundUp"]
 	path = JuliaCon2021-StatisticsWithJuliaFromTheGroundUp
 	url = https://github.com/yoninazarathy/JuliaCon2021-StatisticsWithJuliaFromTheGroundUp.git
+[submodule "juliacon_dft_workshop"]
+	path = juliacon_dft_workshop
+	url = https://github.com/mfherbst/juliacon_dft_workshop.git
