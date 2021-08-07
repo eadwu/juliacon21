@@ -13,3 +13,6 @@
 [submodule "parallel-gpu-workshop-JuliaCon21"]
 	path = parallel-gpu-workshop-JuliaCon21
 	url = https://github.com/luraess/parallel-gpu-workshop-JuliaCon21.git
+[submodule "juliacon2021-workshop-pkgdev"]
+	path = juliacon2021-workshop-pkgdev
+	url = https://github.com/aviatesk/juliacon2021-workshop-pkgdev.git
