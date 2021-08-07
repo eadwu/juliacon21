@@ -10,3 +10,6 @@
 [submodule "juliacon_dft_workshop"]
 	path = juliacon_dft_workshop
 	url = https://github.com/mfherbst/juliacon_dft_workshop.git
+[submodule "parallel-gpu-workshop-JuliaCon21"]
+	path = parallel-gpu-workshop-JuliaCon21
+	url = https://github.com/luraess/parallel-gpu-workshop-JuliaCon21.git
